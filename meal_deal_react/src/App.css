@@ -1,0 +1,17 @@
+.component-wrapper {
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+
+/* create a main wrapper
+/* three flexboxes inside with flex direction column
+/* items will stack on top of each other
