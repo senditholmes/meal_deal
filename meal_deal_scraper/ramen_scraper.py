@@ -52,7 +52,7 @@ for url in url_list:
 
     # write to file
     full_item_info_dict = [dict(zip(("src", "itemName", "price"), x)) for x in full_item_info]
-    base = Path(r"C:\Users\user\Desktop\meal_deal\meal_deal_scraper\data")
+    base = Path(r"C:\Users\user\Desktop\projects\meal_deal\meal_deal_scraper\data")
     if (url[-6] == "0"):
         filename_section = url[-5:]
         filename_section = filename_section.lower()

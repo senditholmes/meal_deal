@@ -1,4 +1,4 @@
-import { drinks_item_data } from "C:\\Users\\user\\Desktop\\meal_deal\\meal_deal_scraper\\data\\drinks_item_data.ts";
+import { drinks_item_data } from "C:\\Users\\user\\Desktop\\projects\\meal_deal\\meal_deal_scraper\\data\\drinks_item_data.ts";
 import { useState } from "react";
 import { item } from "../types/types";
 
